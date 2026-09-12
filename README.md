@@ -1,7 +1,7 @@
 > [!NOTE]
 > This is a *very verrrry* early alpha stage of NISO and there are still missing audios.
 > 
-# NADIRS
+# NISO
 NISO, or Noirvaze's Immersive Sounds Overhaul, is a sound overhaul, completely changing all audio to a realistic version. Having inspiration from both Java mods, named Presence Foostetps, Sounds and Quality Sounds. since there isnt that many great audio overhaul mods on Bedrock, and its unfair where Java has way better mods than Bedrock, so I decided to make NISO!
 > NISO is not finished yet, everything is subject to change.
 
@@ -52,7 +52,7 @@ Unlike Java, Bedrock edition has a way easier way of importing and installing re
 1. Download the latest release in the [Release page](https://github.com/noirvaze/NISO/releases)
 2. Go to the downloaded mcpack and click it, if nothing happens, share it to Minecraft to open it on Minecraft
 3. done! just go to your global resources or open an existing/create a new one, and activate it!
-_Enjoy your new experience._
+_Enjoy your new immersive experience. If you have headphones, use them for the best experience! just make sure the volume isnt too high._
 
 ### Downloads
 - [Releases](https://github.com/noirvaze/NADIRS/releases)
