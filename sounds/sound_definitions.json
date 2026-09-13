@@ -28756,7 +28756,11 @@
             "sounds/step/grass3",
             "sounds/step/grass4",
             "sounds/step/grass5",
-            "sounds/step/grass6"
+            "sounds/step/grass6",
+            "sounds/step/grass7",
+            "sounds/step/grass8",
+            "sounds/step/grass9",
+            "sounds/step/grass10"
          ],
          "subtitle" : "subtitles.block.generic.footsteps"
       },
@@ -28781,6 +28785,10 @@
             },
             {
                "name" : "sounds/step/gravel4",
+               "volume" : 0.30
+            },
+            {
+               "name" : "sounds/step/gravel5",
                "volume" : 0.30
             }
          ],
@@ -29128,7 +29136,17 @@
             "sounds/step/sand2",
             "sounds/step/sand3",
             "sounds/step/sand4",
-            "sounds/step/sand5"
+            "sounds/step/sand5",
+            "sounds/step/sand6",
+            "sounds/step/sand7",
+            "sounds/step/sand8",
+            "sounds/step/sand9",
+            "sounds/step/sand10",
+            "sounds/step/sand11",
+            "sounds/step/sand12",
+            "sounds/step/sand13",
+            "sounds/step/sand14",
+            "sounds/step/sand15"
          ],
          "subtitle" : "subtitles.block.generic.footsteps"
       },
@@ -29245,7 +29263,10 @@
             },
             "sounds/step/snow2",
             "sounds/step/snow3",
-            "sounds/step/snow4"
+            "sounds/step/snow4",
+            "sounds/step/snow5",
+            "sounds/step/snow6",
+            "sounds/step/snow7"
          ],
          "subtitle" : "subtitles.block.generic.footsteps"
       },
@@ -29341,7 +29362,11 @@
             },
             "sounds/step/stone4",
             "sounds/step/stone5",
-            "sounds/step/stone6"
+            "sounds/step/stone6",
+            "sounds/step/stone7",
+            "sounds/step/stone8",
+            "sounds/step/stone9",
+            "sounds/step/stone10"
          ],
          "subtitle" : "subtitles.block.generic.footsteps"
       },
@@ -29499,6 +29524,22 @@
             {
                "load_on_low_memory" : true,
                "name" : "sounds/step/wood6",
+               "volume" : 0.40
+            },
+            {
+               "name" : "sounds/step/wood7",
+               "volume" : 0.40
+            },
+            {
+               "name" : "sounds/step/wood8",
+               "volume" : 0.40
+            },
+            {
+               "name" : "sounds/step/wood9",
+               "volume" : 0.40
+            },
+            {
+               "name" : "sounds/step/wood10",
                "volume" : 0.40
             }
          ],
