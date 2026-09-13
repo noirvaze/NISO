@@ -30174,7 +30174,8 @@
             "sounds/step/gravel1",
             "sounds/step/gravel2",
             "sounds/step/gravel3",
-            "sounds/step/gravel4"
+            "sounds/step/gravel4",
+            "sounds/step/gravel5"
          ],
          "subtitle" : "subtitles.item.hoe.till"
       },
@@ -30448,7 +30449,10 @@
             "sounds/step/snow1",
             "sounds/step/snow2",
             "sounds/step/snow3",
-            "sounds/step/snow4"
+            "sounds/step/snow4",
+            "sounds/step/snow5",
+            "sounds/step/snow6",
+            "sounds/step/snow7"
          ],
          "subtitle" : "subtitles.block.generic.place"
       },
@@ -30526,7 +30530,11 @@
             "sounds/step/stone3",
             "sounds/step/stone4",
             "sounds/step/stone5",
-            "sounds/step/stone6"
+            "sounds/step/stone6",
+            "sounds/step/stone7",
+            "sounds/step/stone8",
+            "sounds/step/stone9",
+            "sounds/step/stone10"
          ],
          "subtitle" : "subtitles.block.generic.place"
       },
