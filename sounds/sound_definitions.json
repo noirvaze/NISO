@@ -1121,7 +1121,8 @@
                "name" : "sounds/ambient/weather/thunder1"
             },
             "sounds/ambient/weather/thunder2",
-            "sounds/ambient/weather/thunder3"
+            "sounds/ambient/weather/thunder3",
+            "sounds/ambient/weather/thunder4"
          ],
          "subtitle" : "subtitles.entity.lightning_bolt.thunder"
       },
