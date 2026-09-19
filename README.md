@@ -58,6 +58,8 @@ _Enjoy your new immersive experience. If you have headphones, use them for the b
 - [Releases](https://github.com/noirvaze/NADIRS/releases)
 
 # Credits
-All audios used in this mod pack is from Zapslat. Which is the same website where presence footsteps and quality sounds got their audio. all credits go to them for the free sound effects, without them, Presence footsteps, Sounds and quality sounds wouldn't exist and neither would NISO.
+[Zapslat](https://www.zapsplat.com/) - The website that Quality sounds, sounds and presence footsteps used for their own sound effects. I try to not pay for premium plans for audios, since im a young yet solo developer.
+[Pixabay](https://pixabay.com/sound-effects/) - An extra website to find sound effects, since I mention I didn't pay for the premium plans on Zapslat, I am limited to some packs and sound effects. 
+all credits go to them and the creators in Pixabay for the free sound effects, without them, Presence footsteps, Sounds and quality sounds wouldn't exist and neither would NISO.
 
 ### if you have any questions, please contact me through discord ( @noir_studios ) or email ( noirvaze@icloud.com )
