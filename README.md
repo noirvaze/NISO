@@ -61,7 +61,7 @@ _Enjoy your new immersive experience. If you have headphones, use them for the b
 [Zapslat](https://www.zapsplat.com/) - The website that Quality sounds, sounds and presence footsteps used for their own sound effects. I try to not pay for premium plans for audios, since im a young yet solo developer.
 [Pixabay](https://pixabay.com/sound-effects/) - An extra website to find sound effects, since I mention I didn't pay for the premium plans on Zapslat, I am limited to some packs and sound effects. 
 all credits go to them and the creators in Pixabay for the free sound effects, without them, Presence footsteps, Sounds and quality sounds wouldn't exist and neither would NISO.
-
+[Pinterest](https://ca.pinterest.com/) - The background for NISO's icon is from Pinterest, the text was editing using [Photopea](https://www.photopea.com/).
 # Have Questions?
 
 ### Discord
