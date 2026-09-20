@@ -1,5 +1,5 @@
 
-<h1 align = "center"><img width="85" height="85" alt="NISO" src="https://github.com/user-attachments/assets/c6400d3b-2c09-4ff1-94f2-ad4f1cb7a085" /> <br> <strong>NISO</strong></p></h1>
+<h1 align = "center"><img width="75" height="75" alt="NISO" src="https://github.com/user-attachments/assets/c6400d3b-2c09-4ff1-94f2-ad4f1cb7a085" /> <br> <strong>NISO</strong></p></h1>
 <h3 align = "center">NISO, or Noirvaze's Immersive Sounds Overhaul, is a sound overhaul, completely changing all audio to a realistic version. Having inspiration from both Java mods, named Presence Foostetps, Sounds and Quality Sounds. since there isnt that many great audio overhaul mods on Bedrock, and its unfair where Java has way better mods than Bedrock, so I decided to make NISO!</h3>
 
 
