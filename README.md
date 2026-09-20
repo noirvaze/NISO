@@ -62,4 +62,12 @@ _Enjoy your new immersive experience. If you have headphones, use them for the b
 [Pixabay](https://pixabay.com/sound-effects/) - An extra website to find sound effects, since I mention I didn't pay for the premium plans on Zapslat, I am limited to some packs and sound effects. 
 all credits go to them and the creators in Pixabay for the free sound effects, without them, Presence footsteps, Sounds and quality sounds wouldn't exist and neither would NISO.
 
-### if you have any questions, please contact me through discord ( @noir_studios ) or email ( noirvaze@icloud.com )
+# Have Questions?
+
+### Discord
+[<img width="198" height="58" alt="image" src="https://github.com/user-attachments/assets/0cdae86f-2e35-43bc-ae01-351d1a9cd005" />
+](https://discord.com/users/1203732783768408085)
+
+### Email
+[<img width="198" height="58" alt="hero-banner-gradient-by image large_2x" src="https://github.com/user-attachments/assets/46fe40e2-6f8b-4941-909c-958c8a7eb262" />
+](mailto:noirvaze@icloud.com)
