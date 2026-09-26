@@ -1058,8 +1058,8 @@
       "ambient.weather.lightning.impact" : {
          "__use_legacy_max_distance" : "true",
          "category" : "weather",
-         "max_distance" : null,
-         "min_distance" : 100.0,
+         "max_distance" : 100,
+         "min_distance" : 30.0,
          "sounds" : [
             "sounds/random/explode1",
             "sounds/random/explode2",

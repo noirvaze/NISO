@@ -1,8 +1,8 @@
 {
     "format_version": 2,
     "header": {
-        "description": "NISO",
-        "name": "A sounds overhaul pack for Bedrock Edition Minecraft! This pack replaces the default sounds with new ones, enhancing the audio experience of the game.",
+        "description": "A sounds overhaul pack for Bedrock Edition Minecraft! This pack replaces the default sounds with new ones, enhancing the audio experience of the game.",
+        "name": "NISO",
         "uuid": "aa0f7594-8b24-4a65-80c5-2da1f297d311",
         "version": [1, 0, 4],
         "min_engine_version": [ 1, 26, 40 ]
