@@ -23693,56 +23693,49 @@
          "min_distance" : null,
          "sounds" : [
             {
-               "name" : "sounds/music/game/bromeliad",
+               "name" : "sounds/music/game/haggstrome",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 3
             },
             {
-               "name" : "sounds/music/game/hal1",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/hal2",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/hal3",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/hal4",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/left_to_bloom",
+               "name" : "sounds/music/game/aria_math",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
-               "name" : "sounds/music/game/nuance1",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/nuance2",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/piano1",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/piano2",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/piano3",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/home",
+               "name" : "sounds/music/game/mice_on_venus",
                "stream" : true,
-               "volume" : 0.40,
-               "weight" : 2
+               "weight": 3
+            },
+            {
+               "name" : "sounds/music/game/living_mice",
+               "stream" : true,
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/wet_hands",
+               "stream" : true,
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/moog_city",
+               "stream" : true,
+               "weight": 4
+            },
+            {
+               "name" : "sounds/music/game/dry_hands",
+               "stream" : true,
+               "weight": 3
+            },
+            {
+               "name" : "sounds/music/game/sweden",
+               "stream" : true,
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/subwoofer_lullaby",
+               "stream" : true,
+               "weight" : 5
             }
          ]
       },
@@ -23753,59 +23746,49 @@
          "min_distance" : null,
          "sounds" : [
             {
-               "name" : "sounds/music/game/below_and_above",
+               "name" : "sounds/music/game/haggstrome",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 3
             },
             {
-               "name" : "sounds/music/game/bromeliad",
+               "name" : "sounds/music/game/aria_math",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
-               "name" : "sounds/music/game/calm1",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/calm2",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/calm3",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/echo_in_the_wind",
+               "name" : "sounds/music/game/mice_on_venus",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 3
             },
             {
-               "name" : "sounds/music/game/featherfall",
+               "name" : "sounds/music/game/living_mice",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
-               "name" : "sounds/music/game/left_to_bloom",
+               "name" : "sounds/music/game/wet_hands",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
-               "name" : "sounds/music/game/home",
+               "name" : "sounds/music/game/moog_city",
                "stream" : true,
-               "volume" : 0.40,
-               "weight" : 2
+               "weight": 4
             },
             {
-               "name" : "sounds/music/game/memories",
+               "name" : "sounds/music/game/dry_hands",
                "stream" : true,
-               "volume" : 0.40,
-               "weight" : 2
+               "weight": 3
             },
             {
-               "name" : "sounds/music/game/nightly",
+               "name" : "sounds/music/game/sweden",
                "stream" : true,
-               "volume" : 0.40,
-               "weight" : 2
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/subwoofer_lullaby",
+               "stream" : true,
+               "weight" : 5
             }
          ]
       },
@@ -23832,49 +23815,49 @@
          "min_distance" : null,
          "sounds" : [
             {
-               "name" : "sounds/music/game/fireflies",
+               "name" : "sounds/music/game/haggstrome",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 3
             },
             {
-               "name" : "sounds/music/game/crescent_dunes",
+               "name" : "sounds/music/game/aria_math",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
-               "name" : "sounds/music/game/hal1",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/hal2",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/hal3",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/hal4",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/nuance1",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/nuance2",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/one_more_day",
+               "name" : "sounds/music/game/mice_on_venus",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 3
             },
             {
-               "name" : "sounds/music/game/memories",
+               "name" : "sounds/music/game/living_mice",
                "stream" : true,
-               "volume" : 0.40,
-               "weight" : 2
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/wet_hands",
+               "stream" : true,
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/moog_city",
+               "stream" : true,
+               "weight": 4
+            },
+            {
+               "name" : "sounds/music/game/dry_hands",
+               "stream" : true,
+               "weight": 3
+            },
+            {
+               "name" : "sounds/music/game/sweden",
+               "stream" : true,
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/subwoofer_lullaby",
+               "stream" : true,
+               "weight" : 5
             }
          ]
       },
@@ -23885,72 +23868,49 @@
          "min_distance" : null,
          "sounds" : [
             {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/wending",
+               "name" : "sounds/music/game/haggstrome",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 3
             },
             {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/infinite_amethyst",
+               "name" : "sounds/music/game/aria_math",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/an_ordinary_day",
-               "stream" : true
-            },
-            {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/hal1",
-               "stream" : true
-            },
-            {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/hal4",
-               "stream" : true
-            },
-            {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/nuance1",
-               "stream" : true
-            },
-            {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/nuance2",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/deeper",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/eld_unknown",
+               "name" : "sounds/music/game/mice_on_venus",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 3
             },
             {
-               "name" : "sounds/music/game/endless",
+               "name" : "sounds/music/game/living_mice",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
-               "name" : "sounds/music/game/pokopoko",
+               "name" : "sounds/music/game/wet_hands",
                "stream" : true,
-               "volume" : 0.80
+               "weight": 2
             },
             {
-               "name" : "sounds/music/game/ebb",
+               "name" : "sounds/music/game/moog_city",
                "stream" : true,
-               "volume" : 0.40,
-               "weight" : 2
+               "weight": 4
             },
             {
-               "name" : "sounds/music/game/shores",
+               "name" : "sounds/music/game/dry_hands",
                "stream" : true,
-               "volume" : 0.40,
-               "weight" : 2
+               "weight": 3
+            },
+            {
+               "name" : "sounds/music/game/sweden",
+               "stream" : true,
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/subwoofer_lullaby",
+               "stream" : true,
+               "weight" : 5
             }
          ]
       },
@@ -23961,60 +23921,49 @@
          "min_distance" : null,
          "sounds" : [
             {
-               "name" : "sounds/music/game/bromeliad",
+               "name" : "sounds/music/game/haggstrome",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 3
             },
             {
-               "name" : "sounds/music/game/echo_in_the_wind",
+               "name" : "sounds/music/game/aria_math",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
-               "name" : "sounds/music/game/featherfall",
+               "name" : "sounds/music/game/mice_on_venus",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 3
             },
             {
-               "name" : "sounds/music/game/hal1",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/hal2",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/hal3",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/hal4",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/left_to_bloom",
+               "name" : "sounds/music/game/living_mice",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
-               "name" : "sounds/music/game/nuance1",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/nuance2",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/memories",
+               "name" : "sounds/music/game/wet_hands",
                "stream" : true,
-               "volume" : 0.40,
-               "weight" : 2
+               "weight": 2
             },
             {
-               "name" : "sounds/music/game/shores",
+               "name" : "sounds/music/game/moog_city",
                "stream" : true,
-               "volume" : 0.40,
-               "weight" : 2
+               "weight": 4
+            },
+            {
+               "name" : "sounds/music/game/dry_hands",
+               "stream" : true,
+               "weight": 3
+            },
+            {
+               "name" : "sounds/music/game/sweden",
+               "stream" : true,
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/subwoofer_lullaby",
+               "stream" : true,
+               "weight" : 5
             }
          ]
       },
@@ -24025,121 +23974,49 @@
          "min_distance" : null,
          "sounds" : [
             {
-               "name" : "sounds/music/game/broken_clocks",
+               "name" : "sounds/music/game/haggstrome",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 3
             },
             {
-               "name" : "sounds/music/game/bromeliad",
+               "name" : "sounds/music/game/aria_math",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
-               "name" : "sounds/music/game/calm2",
+               "name" : "sounds/music/game/mice_on_venus",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 3
             },
             {
-               "name" : "sounds/music/game/comforting_memories",
+               "name" : "sounds/music/game/living_mice",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
-               "name" : "sounds/music/game/hal4",
+               "name" : "sounds/music/game/wet_hands",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
-               "name" : "sounds/music/game/piano1",
+               "name" : "sounds/music/game/moog_city",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 4
             },
             {
-               "name" : "sounds/music/game/floating_dream",
+               "name" : "sounds/music/game/dry_hands",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 3
             },
             {
-               "name" : "sounds/music/game/hal3",
+               "name" : "sounds/music/game/sweden",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
-               "name" : "sounds/music/game/nuance1",
+               "name" : "sounds/music/game/subwoofer_lullaby",
                "stream" : true,
-               "volume" : 0.40
-            },
-            {
-               "name" : "sounds/music/game/left_to_bloom",
-               "stream" : true,
-               "volume" : 0.40
-            },
-            {
-               "name" : "sounds/music/game/hal2",
-               "stream" : true,
-               "volume" : 0.40
-            },
-            {
-               "name" : "sounds/music/game/piano3",
-               "stream" : true,
-               "volume" : 0.40
-            },
-            {
-               "name" : "sounds/music/game/calm1",
-               "stream" : true,
-               "volume" : 0.40
-            },
-            {
-               "name" : "sounds/music/game/one_more_day",
-               "stream" : true,
-               "volume" : 0.40
-            },
-            {
-               "name" : "sounds/music/game/nuance2",
-               "stream" : true,
-               "volume" : 0.40
-            },
-            {
-               "name" : "sounds/music/game/hal1",
-               "stream" : true,
-               "volume" : 0.40
-            },
-            {
-               "name" : "sounds/music/game/aerie",
-               "stream" : true,
-               "volume" : 0.40
-            },
-            {
-               "name" : "sounds/music/game/firebugs",
-               "stream" : true,
-               "volume" : 0.40
-            },
-            {
-               "name" : "sounds/music/game/labyrinthine",
-               "stream" : true,
-               "volume" : 0.40
-            },
-            {
-               "name" : "sounds/music/game/calm3",
-               "stream" : true,
-               "volume" : 0.40
-            },
-            {
-               "name" : "sounds/music/game/piano2",
-               "stream" : true,
-               "volume" : 0.40
-            },
-            {
-               "name" : "sounds/music/game/memories",
-               "stream" : true,
-               "volume" : 0.40,
-               "weight" : 2
-            },
-            {
-               "name" : "sounds/music/game/shores",
-               "stream" : true,
-               "volume" : 0.40,
-               "weight" : 2
+               "weight" : 5
             }
          ]
       },
@@ -24147,61 +24024,49 @@
          "category" : "music",
          "sounds" : [
             {
-               "name" : "sounds/music/game/danny",
-               "stream" : true
+               "name" : "sounds/music/game/haggstrome",
+               "stream" : true,
+               "weight": 3
+            },
+            {
+               "name" : "sounds/music/game/aria_math",
+               "stream" : true,
+               "weight": 2
             },
             {
                "name" : "sounds/music/game/mice_on_venus",
                "stream" : true,
-               "volume" : 1.0
+               "weight": 3
+            },
+            {
+               "name" : "sounds/music/game/living_mice",
+               "stream" : true,
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/wet_hands",
+               "stream" : true,
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/moog_city",
+               "stream" : true,
+               "weight": 4
+            },
+            {
+               "name" : "sounds/music/game/dry_hands",
+               "stream" : true,
+               "weight": 3
+            },
+            {
+               "name" : "sounds/music/game/sweden",
+               "stream" : true,
+               "weight": 2
             },
             {
                "name" : "sounds/music/game/subwoofer_lullaby",
                "stream" : true,
-               "volume" : 1.0
-            },
-            {
-               "name" : "sounds/music/game/nightly",
-               "stream" : true,
-               "volume" : 0.40,
-               "weight" : 2
-            },
-            {
-               "name" : "sounds/music/game/dry_hands",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/home",
-               "stream" : true,
-               "volume" : 0.40,
-               "weight" : 2
-            },
-            {
-               "name" : "sounds/music/game/ebb",
-               "stream" : true,
-               "volume" : 0.40,
-               "weight" : 2
-            },
-            {
-               "name" : "sounds/music/game/haggstrom",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/lilypad",
-               "stream" : true,
-               "volume" : 0.40
-            },
-            {
-               "name" : "sounds/music/game/living_mice",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/wet_hands",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/stand_tall",
-               "stream" : true
+               "weight" : 5
             }
          ]
       },
@@ -24212,82 +24077,49 @@
          "min_distance" : null,
          "sounds" : [
             {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/lilypad",
+               "name" : "sounds/music/game/haggstrome",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 3
             },
             {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/comforting_memories",
+               "name" : "sounds/music/game/aria_math",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/infinite_amethyst",
+               "name" : "sounds/music/game/mice_on_venus",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 3
             },
             {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/wending",
+               "name" : "sounds/music/game/living_mice",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/eld_unknown",
+               "name" : "sounds/music/game/wet_hands",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/endless",
+               "name" : "sounds/music/game/moog_city",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 4
             },
             {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/pokopoko",
+               "name" : "sounds/music/game/dry_hands",
                "stream" : true,
-               "volume" : 0.80
+               "weight": 3
             },
             {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/piano3",
-               "stream" : true
-            },
-            {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/calm1",
-               "stream" : true
-            },
-            {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/calm2",
-               "stream" : true
-            },
-            {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/calm3",
-               "stream" : true
-            },
-            {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/nuance1",
-               "stream" : true
-            },
-            {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/nuance2",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/shores",
+               "name" : "sounds/music/game/sweden",
                "stream" : true,
-               "volume" : 0.40,
-               "weight" : 2
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/subwoofer_lullaby",
+               "stream" : true,
+               "weight" : 5
             }
          ]
       },
@@ -24298,87 +24130,49 @@
          "min_distance" : null,
          "sounds" : [
             {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/floating_dream",
+               "name" : "sounds/music/game/haggstrome",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 3
             },
             {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/stand_tall",
+               "name" : "sounds/music/game/aria_math",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/wending",
+               "name" : "sounds/music/game/mice_on_venus",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 3
             },
             {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/eld_unknown",
+               "name" : "sounds/music/game/living_mice",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/endless",
+               "name" : "sounds/music/game/wet_hands",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/pokopoko",
+               "name" : "sounds/music/game/moog_city",
                "stream" : true,
-               "volume" : 0.80
+               "weight": 4
             },
             {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/piano1",
-               "stream" : true
-            },
-            {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/piano2",
-               "stream" : true
-            },
-            {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/piano3",
-               "stream" : true
-            },
-            {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/nuance1",
-               "stream" : true
-            },
-            {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/nuance2",
-               "stream" : true
-            },
-            {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/hal1",
-               "stream" : true
-            },
-            {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/hal2",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/ebb",
+               "name" : "sounds/music/game/dry_hands",
                "stream" : true,
-               "volume" : 0.40,
-               "weight" : 2
+               "weight": 3
             },
             {
-               "name" : "sounds/music/game/nightly",
+               "name" : "sounds/music/game/sweden",
                "stream" : true,
-               "volume" : 0.40,
-               "weight" : 2
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/subwoofer_lullaby",
+               "stream" : true,
+               "weight" : 5
             }
          ]
       },
@@ -24389,55 +24183,49 @@
          "min_distance" : null,
          "sounds" : [
             {
-               "name" : "sounds/music/game/bromeliad",
+               "name" : "sounds/music/game/haggstrome",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 3
             },
             {
-               "name" : "sounds/music/game/hal1",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/hal2",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/hal3",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/hal4",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/left_to_bloom",
-               "volume" : 0.40
-            },
-            {
-               "name" : "sounds/music/game/nuance1",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/nuance2",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/piano1",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/piano2",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/piano3",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/home",
+               "name" : "sounds/music/game/aria_math",
                "stream" : true,
-               "volume" : 0.40,
-               "weight" : 2
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/mice_on_venus",
+               "stream" : true,
+               "weight": 3
+            },
+            {
+               "name" : "sounds/music/game/living_mice",
+               "stream" : true,
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/wet_hands",
+               "stream" : true,
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/moog_city",
+               "stream" : true,
+               "weight": 4
+            },
+            {
+               "name" : "sounds/music/game/dry_hands",
+               "stream" : true,
+               "weight": 3
+            },
+            {
+               "name" : "sounds/music/game/sweden",
+               "stream" : true,
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/subwoofer_lullaby",
+               "stream" : true,
+               "weight" : 5
             }
          ]
       },
@@ -24448,56 +24236,49 @@
          "min_distance" : null,
          "sounds" : [
             {
-               "name" : "sounds/music/game/bromeliad",
+               "name" : "sounds/music/game/haggstrome",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 3
             },
             {
-               "name" : "sounds/music/game/hal1",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/hal2",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/hal3",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/hal4",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/left_to_bloom",
+               "name" : "sounds/music/game/aria_math",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
-               "name" : "sounds/music/game/nuance1",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/nuance2",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/piano1",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/piano2",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/piano3",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/home",
+               "name" : "sounds/music/game/mice_on_venus",
                "stream" : true,
-               "volume" : 0.40,
-               "weight" : 2
+               "weight": 3
+            },
+            {
+               "name" : "sounds/music/game/living_mice",
+               "stream" : true,
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/wet_hands",
+               "stream" : true,
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/moog_city",
+               "stream" : true,
+               "weight": 4
+            },
+            {
+               "name" : "sounds/music/game/dry_hands",
+               "stream" : true,
+               "weight": 3
+            },
+            {
+               "name" : "sounds/music/game/sweden",
+               "stream" : true,
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/subwoofer_lullaby",
+               "stream" : true,
+               "weight" : 5
             }
          ]
       },
@@ -24508,76 +24289,49 @@
          "min_distance" : null,
          "sounds" : [
             {
-               "name" : "sounds/music/game/an_ordinary_day",
+               "name" : "sounds/music/game/haggstrome",
                "stream" : true,
-               "volume" : 0.80
+               "weight": 3
             },
             {
-               "name" : "sounds/music/game/clark",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/echo_in_the_wind",
+               "name" : "sounds/music/game/aria_math",
                "stream" : true,
-               "volume" : 0.40
-            },
-            {
-               "name" : "sounds/music/game/featherfall",
-               "stream" : true,
-               "volume" : 0.40
-            },
-            {
-               "name" : "sounds/music/game/floating_dream",
-               "stream" : true,
-               "volume" : 0.50
-            },
-            {
-               "name" : "sounds/music/game/left_to_bloom",
-               "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
                "name" : "sounds/music/game/mice_on_venus",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/minecraft",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/one_more_day",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 3
             },
             {
-               "name" : "sounds/music/game/os_piano",
+               "name" : "sounds/music/game/living_mice",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
-               "name" : "sounds/music/game/shores",
+               "name" : "sounds/music/game/wet_hands",
                "stream" : true,
-               "volume" : 0.40,
-               "weight" : 2
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/moog_city",
+               "stream" : true,
+               "weight": 4
+            },
+            {
+               "name" : "sounds/music/game/dry_hands",
+               "stream" : true,
+               "weight": 3
             },
             {
                "name" : "sounds/music/game/sweden",
-               "stream" : true
+               "stream" : true,
+               "weight": 2
             },
             {
-               "name" : "sounds/music/game/aerie",
+               "name" : "sounds/music/game/subwoofer_lullaby",
                "stream" : true,
-               "volume" : 0.40
-            },
-            {
-               "name" : "sounds/music/game/firebugs",
-               "stream" : true,
-               "volume" : 0.40
-            },
-            {
-               "name" : "sounds/music/game/labyrinthine",
-               "stream" : true,
-               "volume" : 0.40
+               "weight" : 5
             }
          ]
       },
@@ -24585,36 +24339,49 @@
          "category" : "music",
          "sounds" : [
             {
-               "name" : "sounds/music/game/danny",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/haggstrom",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/home",
+               "name" : "sounds/music/game/haggstrome",
                "stream" : true,
-               "volume" : 0.40,
-               "weight" : 2
+               "weight": 3
             },
             {
-               "name" : "sounds/music/game/left_to_bloom",
-               "stream" : true
+               "name" : "sounds/music/game/aria_math",
+               "stream" : true,
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/mice_on_venus",
+               "stream" : true,
+               "weight": 3
             },
             {
                "name" : "sounds/music/game/living_mice",
-               "stream" : true
+               "stream" : true,
+               "weight": 2
             },
             {
-               "name" : "sounds/music/game/one_more_day",
+               "name" : "sounds/music/game/wet_hands",
                "stream" : true,
-               "volume" : 0.40,
-               "weight" : 2
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/moog_city",
+               "stream" : true,
+               "weight": 4
+            },
+            {
+               "name" : "sounds/music/game/dry_hands",
+               "stream" : true,
+               "weight": 3
+            },
+            {
+               "name" : "sounds/music/game/sweden",
+               "stream" : true,
+               "weight": 2
             },
             {
                "name" : "sounds/music/game/subwoofer_lullaby",
-               "stream" : true
+               "stream" : true,
+               "weight" : 5
             }
          ]
       },
@@ -24625,66 +24392,49 @@
          "min_distance" : null,
          "sounds" : [
             {
-               "name" : "sounds/music/game/crescent_dunes",
+               "name" : "sounds/music/game/haggstrome",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 3
             },
             {
-               "name" : "sounds/music/game/echo_in_the_wind",
+               "name" : "sounds/music/game/aria_math",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
-               "name" : "sounds/music/game/featherfall",
+               "name" : "sounds/music/game/mice_on_venus",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 3
             },
             {
-               "name" : "sounds/music/game/hal1",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/hal2",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/hal3",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/hal4",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/nuance1",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/nuance2",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/one_more_day",
+               "name" : "sounds/music/game/living_mice",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
-               "name" : "sounds/music/game/piano1",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/piano2",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/piano3",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/memories",
+               "name" : "sounds/music/game/wet_hands",
                "stream" : true,
-               "volume" : 0.40,
-               "weight" : 2
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/moog_city",
+               "stream" : true,
+               "weight": 4
+            },
+            {
+               "name" : "sounds/music/game/dry_hands",
+               "stream" : true,
+               "weight": 3
+            },
+            {
+               "name" : "sounds/music/game/sweden",
+               "stream" : true,
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/subwoofer_lullaby",
+               "stream" : true,
+               "weight" : 5
             }
          ]
       },
@@ -24695,93 +24445,49 @@
          "min_distance" : null,
          "sounds" : [
             {
-               "name" : "sounds/music/game/calm2",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/comforting_memories",
+               "name" : "sounds/music/game/haggstrome",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 3
             },
             {
-               "name" : "sounds/music/game/hal4",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/piano1",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/floating_dream",
+               "name" : "sounds/music/game/aria_math",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
-               "name" : "sounds/music/game/hal3",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/nuance1",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/left_to_bloom",
+               "name" : "sounds/music/game/mice_on_venus",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 3
             },
             {
-               "name" : "sounds/music/game/hal2",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/piano3",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/calm1",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/one_more_day",
+               "name" : "sounds/music/game/living_mice",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
-               "name" : "sounds/music/game/nuance2",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/hal1",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/aerie",
+               "name" : "sounds/music/game/wet_hands",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
-               "name" : "sounds/music/game/firebugs",
+               "name" : "sounds/music/game/moog_city",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 4
             },
             {
-               "name" : "sounds/music/game/labyrinthine",
+               "name" : "sounds/music/game/dry_hands",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 3
             },
             {
-               "name" : "sounds/music/game/calm3",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/piano2",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/shores",
+               "name" : "sounds/music/game/sweden",
                "stream" : true,
-               "volume" : 0.40,
-               "weight" : 2
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/subwoofer_lullaby",
+               "stream" : true,
+               "weight" : 5
             }
          ]
       },
@@ -24791,42 +24497,49 @@
          "min_distance" : null,
          "sounds" : [
             {
-               "name" : "sounds/music/game/an_ordinary_day",
+               "name" : "sounds/music/game/haggstrome",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 3
             },
             {
-               "name" : "sounds/music/game/haggstrom",
-               "stream" : true
+               "name" : "sounds/music/game/aria_math",
+               "stream" : true,
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/mice_on_venus",
+               "stream" : true,
+               "weight": 3
             },
             {
                "name" : "sounds/music/game/living_mice",
-               "stream" : true
+               "stream" : true,
+               "weight": 2
             },
             {
-               "name" : "sounds/music/game/nightly",
+               "name" : "sounds/music/game/wet_hands",
                "stream" : true,
-               "volume" : 0.40,
-               "weight" : 2
+               "weight": 2
             },
             {
-               "name" : "sounds/music/game/one_more_day",
+               "name" : "sounds/music/game/moog_city",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 4
             },
             {
-               "name" : "sounds/music/game/pokopoko",
+               "name" : "sounds/music/game/dry_hands",
                "stream" : true,
-               "volume" : 0.80
+               "weight": 3
             },
             {
-               "name" : "sounds/music/game/stand_tall",
+               "name" : "sounds/music/game/sweden",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
                "name" : "sounds/music/game/subwoofer_lullaby",
-               "stream" : true
+               "stream" : true,
+               "weight" : 5
             }
          ]
       },
@@ -24836,58 +24549,49 @@
          "min_distance" : null,
          "sounds" : [
             {
-               "name" : "sounds/music/game/danny",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/dry_hands",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/eld_unknown",
+               "name" : "sounds/music/game/haggstrome",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 3
             },
             {
-               "name" : "sounds/music/game/endless",
+               "name" : "sounds/music/game/aria_math",
                "stream" : true,
-               "volume" : 0.40
-            },
-            {
-               "name" : "sounds/music/game/haggstrom",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/living_mice",
-               "stream" : true
+               "weight": 2
             },
             {
                "name" : "sounds/music/game/mice_on_venus",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/nightly",
                "stream" : true,
-               "volume" : 0.40,
-               "weight" : 2
+               "weight": 3
             },
             {
-               "name" : "sounds/music/game/stand_tall",
+               "name" : "sounds/music/game/living_mice",
                "stream" : true,
-               "volume" : 0.40
-            },
-            {
-               "name" : "sounds/music/game/subwoofer_lullaby",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/wending",
-               "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
                "name" : "sounds/music/game/wet_hands",
-               "stream" : true
+               "stream" : true,
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/moog_city",
+               "stream" : true,
+               "weight": 4
+            },
+            {
+               "name" : "sounds/music/game/dry_hands",
+               "stream" : true,
+               "weight": 3
+            },
+            {
+               "name" : "sounds/music/game/sweden",
+               "stream" : true,
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/subwoofer_lullaby",
+               "stream" : true,
+               "weight" : 5
             }
          ]
       },
@@ -24898,72 +24602,49 @@
          "min_distance" : null,
          "sounds" : [
             {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/wending",
+               "name" : "sounds/music/game/haggstrome",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 3
             },
             {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/infinite_amethyst",
+               "name" : "sounds/music/game/aria_math",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/an_ordinary_day",
-               "stream" : true
-            },
-            {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/hal1",
-               "stream" : true
-            },
-            {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/hal4",
-               "stream" : true
-            },
-            {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/nuance1",
-               "stream" : true
-            },
-            {
-               "load_on_low_memory" : true,
-               "name" : "sounds/music/game/nuance2",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/deeper",
-               "stream" : true
-            },
-            {
-               "name" : "sounds/music/game/eld_unknown",
+               "name" : "sounds/music/game/mice_on_venus",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 3
             },
             {
-               "name" : "sounds/music/game/endless",
+               "name" : "sounds/music/game/living_mice",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
-               "name" : "sounds/music/game/pokopoko",
+               "name" : "sounds/music/game/wet_hands",
                "stream" : true,
-               "volume" : 0.80
+               "weight": 2
             },
             {
-               "name" : "sounds/music/game/ebb",
+               "name" : "sounds/music/game/moog_city",
                "stream" : true,
-               "volume" : 0.40,
-               "weight" : 2
+               "weight": 4
             },
             {
-               "name" : "sounds/music/game/shores",
+               "name" : "sounds/music/game/dry_hands",
                "stream" : true,
-               "volume" : 0.40,
-               "weight" : 2
+               "weight": 3
+            },
+            {
+               "name" : "sounds/music/game/sweden",
+               "stream" : true,
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/subwoofer_lullaby",
+               "stream" : true,
+               "weight" : 5
             }
          ]
       },
@@ -24971,24 +24652,49 @@
          "category" : "music",
          "sounds" : [
             {
-               "name" : "sounds/music/game/ebb",
+               "name" : "sounds/music/game/haggstrome",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 3
             },
             {
-               "name" : "sounds/music/game/aerie",
+               "name" : "sounds/music/game/aria_math",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
             },
             {
-               "name" : "sounds/music/game/firebugs",
+               "name" : "sounds/music/game/mice_on_venus",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 3
             },
             {
-               "name" : "sounds/music/game/labyrinthine",
+               "name" : "sounds/music/game/living_mice",
                "stream" : true,
-               "volume" : 0.40
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/wet_hands",
+               "stream" : true,
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/moog_city",
+               "stream" : true,
+               "weight": 4
+            },
+            {
+               "name" : "sounds/music/game/dry_hands",
+               "stream" : true,
+               "weight": 3
+            },
+            {
+               "name" : "sounds/music/game/sweden",
+               "stream" : true,
+               "weight": 2
+            },
+            {
+               "name" : "sounds/music/game/subwoofer_lullaby",
+               "stream" : true,
+               "weight" : 5
             }
          ]
       },
