@@ -7,7 +7,7 @@
 
 > [!NOTE]
 > This is a *very verrrry* early alpha stage of NISO and there are still missing audios.
-> 
+>
 ## progress board
 ```mermaid
 graph TD;
@@ -54,7 +54,14 @@ Unlike Java, Bedrock edition has a way easier way of importing and installing re
 
 1. Download the latest release in the [Release page](https://github.com/noirvaze/NISO/releases)
 2. Go to the downloaded mcpack and click it, if nothing happens, share it to Minecraft to open it on Minecraft
-3. done! just go to your global resources or open an existing/create a new one, and activate it!
+3. ## Open Minecraft, go to settings and open audio settings
+for the best immersion, have these recommended settings 
+> [!NOTE]
+> Currently still experimenting with audio volumes and settings, soon there will be an image showing you recommended settings. stay tuned!
+>
+ 
+
+5. done! just go to your global resources or open an existing/create a new one, and activate it!
 _Enjoy your new immersive experience. If you have headphones, use them for the best experience! just make sure the volume isnt too high._
 
 ### Downloads
