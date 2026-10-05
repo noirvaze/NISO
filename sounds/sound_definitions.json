@@ -7238,7 +7238,12 @@
          "category" : "player",
          "max_distance" : null,
          "min_distance" : 5.0,
-         "sounds" : [ "sounds/elytra/elytra_loop" ],
+         "sounds" : [ 
+            {
+               "load_on_low_memory" : true,
+               "name" : "sounds/elytra/elytra_loop"
+            } 
+         ],
          "subtitle" : "subtitles.item.elytra.flying"
       },
       "entity.fox.teleport" : {
@@ -28459,15 +28464,42 @@
                "load_on_low_memory" : true,
                "name" : "sounds/step/grass1"
             },
-            "sounds/step/grass2",
-            "sounds/step/grass3",
-            "sounds/step/grass4",
-            "sounds/step/grass5",
-            "sounds/step/grass6",
-            "sounds/step/grass7",
-            "sounds/step/grass8",
-            "sounds/step/grass9",
-            "sounds/step/grass10"
+            {
+                  "name" : "sounds/step/grass2",
+                  "volume" : 0.5
+            },
+            {
+                  "name" : "sounds/step/grass3",
+                  "volume" : 0.5
+            },
+            {
+                  "name" : "sounds/step/grass4",
+                  "volume" : 0.5
+            },
+            {
+                  "name" : "sounds/step/grass5",
+                  "volume" : 0.5
+            },
+            {
+                  "name" : "sounds/step/grass6",
+                  "volume" : 0.5
+            },
+            {
+                  "name" : "sounds/step/grass7",
+                  "volume" : 0.5
+            },
+            {
+                  "name" : "sounds/step/grass8",
+                  "volume" : 0.5
+            },
+            {
+                  "name" : "sounds/step/grass9",
+                  "volume" : 0.5
+            },
+            {
+                  "name" : "sounds/step/grass10",
+                  "volume" : 0.5
+            }
          ],
          "subtitle" : "subtitles.block.generic.footsteps"
       },
@@ -28480,23 +28512,23 @@
             {
                "load_on_low_memory" : true,
                "name" : "sounds/step/gravel1",
-               "volume" : 0.30
+               "volume" : 0.5
             },
             {
                "name" : "sounds/step/gravel2",
-               "volume" : 0.30
+               "volume" : 0.5
             },
             {
                "name" : "sounds/step/gravel3",
-               "volume" : 0.30
+               "volume" : 0.5
             },
             {
                "name" : "sounds/step/gravel4",
-               "volume" : 0.30
+               "volume" : 0.5
             },
             {
                "name" : "sounds/step/gravel5",
-               "volume" : 0.30
+               "volume" : 0.5
             }
          ],
          "subtitle" : "subtitles.block.generic.footsteps"
