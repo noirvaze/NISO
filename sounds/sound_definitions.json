@@ -28466,39 +28466,71 @@
             },
             {
                   "name" : "sounds/step/grass2",
-                  "volume" : 0.5
+                  "volume" : 0.2
             },
             {
                   "name" : "sounds/step/grass3",
-                  "volume" : 0.5
+                  "volume" : 0.2
             },
             {
                   "name" : "sounds/step/grass4",
-                  "volume" : 0.5
+                  "volume" : 0.2
             },
             {
                   "name" : "sounds/step/grass5",
-                  "volume" : 0.5
+                  "volume" : 0.2
             },
             {
                   "name" : "sounds/step/grass6",
-                  "volume" : 0.5
+                  "volume" : 0.2
             },
             {
                   "name" : "sounds/step/grass7",
-                  "volume" : 0.5
+                  "volume" : 0.2
             },
             {
                   "name" : "sounds/step/grass8",
-                  "volume" : 0.5
+                  "volume" : 0.2
             },
             {
                   "name" : "sounds/step/grass9",
-                  "volume" : 0.5
+                  "volume" : 0.2
             },
             {
                   "name" : "sounds/step/grass10",
-                  "volume" : 0.5
+                  "volume" : 0.2
+            },
+            {
+                  "name" : "sounds/step/grass11",
+                  "volume" : 0.2
+            },
+            {
+                  "name" : "sounds/step/grass12",
+                  "volume" : 0.2
+            },
+            {
+                  "name" : "sounds/step/grass13",
+                  "volume" : 0.2
+            },
+            {
+                  "name" : "sounds/step/grass14",
+                  "volume" : 0.2
+            },
+            {
+                  "name" : "sounds/step/grass15",
+                  "volume" : 0.2
+            },
+            {
+                  "name" : "sounds/step/grass16",
+                  "volume" : 0.2
+            },
+            {
+                  "name" : "sounds/step/grass17",
+                  "volume" : 0.2
+            },
+            {
+                  "name" : "sounds/step/grass18",
+                  "volume" : 0.2
             }
          ],
          "subtitle" : "subtitles.block.generic.footsteps"
