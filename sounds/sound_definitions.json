@@ -29687,7 +29687,7 @@
          "sounds" : [
             {
                "name" : "sounds/fire/ignite",
-               "volume" : 0.50
+               "volume" : 0.5
             }
          ],
          "subtitle" : "subtitles.item.flintandsteel.use"
