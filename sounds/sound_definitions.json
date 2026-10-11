@@ -6853,7 +6853,8 @@
             },
             "sounds/dig/gravel2",
             "sounds/dig/gravel3",
-            "sounds/dig/gravel4"
+            "sounds/dig/gravel4",
+            "sounds/dig/gravel5"
          ],
          "subtitle" : "subtitles.block.generic.break"
       },
@@ -28466,71 +28467,79 @@
             },
             {
                   "name" : "sounds/step/grass2",
-                  "volume" : 0.2
+                  "volume" : 0.1
             },
             {
                   "name" : "sounds/step/grass3",
-                  "volume" : 0.2
+                  "volume" : 0.1
             },
             {
                   "name" : "sounds/step/grass4",
-                  "volume" : 0.2
+                  "volume" : 0.1
             },
             {
                   "name" : "sounds/step/grass5",
-                  "volume" : 0.2
+                  "volume" : 0.1
             },
             {
                   "name" : "sounds/step/grass6",
-                  "volume" : 0.2
+                  "volume" : 0.1
             },
             {
                   "name" : "sounds/step/grass7",
-                  "volume" : 0.2
+                  "volume" : 0.1
             },
             {
                   "name" : "sounds/step/grass8",
-                  "volume" : 0.2
+                  "volume" : 0.1
             },
             {
                   "name" : "sounds/step/grass9",
-                  "volume" : 0.2
+                  "volume" : 0.1
             },
             {
                   "name" : "sounds/step/grass10",
-                  "volume" : 0.2
+                  "volume" : 0.1
             },
             {
                   "name" : "sounds/step/grass11",
-                  "volume" : 0.2
+                  "volume" : 0.1
             },
             {
                   "name" : "sounds/step/grass12",
-                  "volume" : 0.2
+                  "volume" : 0.1
             },
             {
                   "name" : "sounds/step/grass13",
-                  "volume" : 0.2
+                  "volume" : 0.1
             },
             {
                   "name" : "sounds/step/grass14",
-                  "volume" : 0.2
+                  "volume" : 0.1
             },
             {
                   "name" : "sounds/step/grass15",
-                  "volume" : 0.2
+                  "volume" : 0.1
             },
             {
                   "name" : "sounds/step/grass16",
-                  "volume" : 0.2
+                  "volume" : 0.1
             },
             {
                   "name" : "sounds/step/grass17",
-                  "volume" : 0.2
+                  "volume" : 0.1
             },
             {
                   "name" : "sounds/step/grass18",
-                  "volume" : 0.2
+                  "volume" : 0.1
+            },
+            {
+                  "name" : "sounds/step/grass19",
+                  "volume" : 0.1
+            },
+            {
+                  "name" : "sounds/step/grass20",
+                  "volume" : 0.1
             }
          ],
          "subtitle" : "subtitles.block.generic.footsteps"
@@ -28544,23 +28553,23 @@
             {
                "load_on_low_memory" : true,
                "name" : "sounds/step/gravel1",
-               "volume" : 0.5
+               "volume" : 0.25
             },
             {
                "name" : "sounds/step/gravel2",
-               "volume" : 0.5
+               "volume" : 0.25
             },
             {
                "name" : "sounds/step/gravel3",
-               "volume" : 0.5
+               "volume" : 0.25
             },
             {
                "name" : "sounds/step/gravel4",
-               "volume" : 0.5
+               "volume" : 0.25
             },
             {
                "name" : "sounds/step/gravel5",
-               "volume" : 0.5
+               "volume" : 0.25
             }
          ],
          "subtitle" : "subtitles.block.generic.footsteps"
