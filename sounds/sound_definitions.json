@@ -10666,7 +10666,8 @@
                "name" : "sounds/jump/grass2"
             },
             "sounds/jump/grass3",
-            "sounds/jump/grass4"
+            "sounds/jump/grass4",
+            "sounds/jump/grass5"
          ],
          "subtitle" : "subtitles.block.generic.footsteps"
       },
@@ -10676,13 +10677,13 @@
          "max_distance" : null,
          "min_distance" : null,
          "sounds" : [
-            "sounds/jump/gravel1",
-            "sounds/jump/gravel2",
-            "sounds/jump/gravel3",
+            
             {
                "load_on_low_memory" : true,
-               "name" : "sounds/jump/gravel4"
-            }
+               "name" : "sounds/jump/gravel1"
+            },
+            "sounds/jump/gravel2",
+            "sounds/jump/gravel3"
          ],
          "subtitle" : "subtitles.block.generic.footsteps"
       },
@@ -10949,7 +10950,8 @@
             },
             "sounds/jump/snow2",
             "sounds/jump/snow3",
-            "sounds/jump/snow4"
+            "sounds/jump/snow4",
+            "sounds/jump/snow5"
          ],
          "subtitle" : "subtitles.block.generic.footsteps"
       },
@@ -11223,7 +11225,11 @@
             "sounds/block/rooted_dirt/step3",
             "sounds/block/rooted_dirt/step4",
             "sounds/block/rooted_dirt/step5",
-            "sounds/block/rooted_dirt/step6"
+            "sounds/block/rooted_dirt/step6",
+            "sounds/block/rooted_dirt/step7",
+            "sounds/block/rooted_dirt/step8",
+            "sounds/block/rooted_dirt/step9",
+            "sounds/block/rooted_dirt/step10"
          ],
          "subtitle" : "subtitles.block.generic.fall"
       },
