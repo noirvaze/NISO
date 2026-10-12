@@ -6849,12 +6849,25 @@
          "sounds" : [
             {
                "load_on_low_memory" : true,
-               "name" : "sounds/dig/gravel1"
+               "name" : "sounds/dig/gravel1",
+               "volume" : 0.25
             },
-            "sounds/dig/gravel2",
-            "sounds/dig/gravel3",
-            "sounds/dig/gravel4",
-            "sounds/dig/gravel5"
+            {
+               "name" : "sounds/dig/gravel2",
+               "volume" : 0.25
+            },
+            {
+               "name" : "sounds/dig/gravel3",
+               "volume" : 0.25
+            },
+            {
+               "name" : "sounds/dig/gravel4",
+               "volume" : 0.25
+            },
+            {
+               "name" : "sounds/dig/gravel5",
+               "volume" : 0.25
+            }
          ],
          "subtitle" : "subtitles.block.generic.break"
       },
