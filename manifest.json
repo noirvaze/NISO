@@ -14,5 +14,10 @@
             "uuid": "99e6cb82-8d09-41f9-a7b9-230f503b8bab",
             "version": [1, 0, 4]
         }
-    ]
+    ],
+    "metadata": {
+        "authors": ["noirvaze"],
+        "url": "https://github.com/noirvaze/NISO"
+    },
+    "capabilities": [ "pbr", "raytraced" ]
 }
