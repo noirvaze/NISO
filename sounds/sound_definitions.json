@@ -8516,12 +8516,10 @@
          "max_distance" : null,
          "min_distance" : null,
          "sounds" : [
-            "sounds/damage/hit1",
             {
                "load_on_low_memory" : true,
-               "name" : "sounds/damage/hit2"
-            },
-            "sounds/damage/hit3"
+               "name" : "sounds/mob/player/die"
+            }
          ],
          "subtitle" : "subtitles.entity.player.death"
       },
@@ -27217,7 +27215,8 @@
          "sounds" : [
             {
                "load_on_low_memory" : true,
-               "name" : "sounds/random/levelup"
+               "name" : "sounds/random/levelup",
+               "volume": 0.5
             }
          ],
          "subtitle" : "subtitles.entity.player.levelup"
