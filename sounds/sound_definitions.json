@@ -27030,7 +27030,7 @@
             {
                "load_on_low_memory" : true,
                "name" : "sounds/random/click",
-               "volume" : 0.20
+               "volume" : 0.1
             }
          ],
          "subtitle" : "subtitles.block.pressure_plate.click"
@@ -27190,7 +27190,8 @@
          "sounds" : [
             "sounds/random/glass1",
             "sounds/random/glass2",
-            "sounds/random/glass3"
+            "sounds/random/glass3",
+            "sounds/random/glass4"
          ],
          "subtitle" : "subtitles.block.generic.break"
       },
