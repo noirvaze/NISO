@@ -78,6 +78,8 @@ all credits go to them and the creators in Pixabay for the free sound effects, w
 [Pinterest](https://ca.pinterest.com/) - The background for NISO's icon is from Pinterest, the text was editing using [Photopea](https://www.photopea.com/).
 
 [Itch.io](https://nox-sound-design.itch.io/essentials-series-sfx-nox-sound) - Jump sfx and addition sfx is from the Essential series pack from Nox Sound. Credits to them for making the pack!
+
+[lux-aeterna](https://pixabay.com/users/lux-aeterna) - All credits for the music added to this pack belongs to Lux-aeterna, they esplicitly said it is allowed to be used in Youtube, Video Games and other projects.
 # Have Questions?
 
 ### Discord
