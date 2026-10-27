@@ -853,14 +853,6 @@
             {
                "name" : "sounds/ambient/underwater/enter1",
                "volume" : 0.80
-            },
-            {
-               "name" : "sounds/ambient/underwater/enter2",
-               "volume" : 0.80
-            },
-            {
-               "name" : "sounds/ambient/underwater/enter3",
-               "volume" : 0.80
             }
          ]
       },
@@ -8518,7 +8510,8 @@
          "sounds" : [
             {
                "load_on_low_memory" : true,
-               "name" : "sounds/mob/player/die"
+               "name" : "sounds/mob/player/die",
+               "volume": 0.8
             }
          ],
          "subtitle" : "subtitles.entity.player.death"
